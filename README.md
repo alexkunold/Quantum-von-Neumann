@@ -11,7 +11,8 @@ The file contains two examples. The first runs very fast even in a laptop.
 The second can take about an hour of run time depending on the characteristics
 of your computer.
 
-In the code you will find references to the paper arXiv http://arxiv.org/abs/2306.08775
+In the code you will find references to the paper arXiv http://arxiv.org/abs/2306.08775 .
+If you find this code useful please cite http://arxiv.org/abs/2306.08775 .
 
 <!---
 alexkunold/alexkunold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
