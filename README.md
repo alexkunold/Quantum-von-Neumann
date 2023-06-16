@@ -2,7 +2,7 @@ Hi, I’m @alexkunold
 I’m interested in quantum algorithms.
 
 This is a Python 3 jupyter notebook containing a quantum algorithm
-that calculated the time evolution of de density matrix according
+that calculates the time evolution of de density matrix according
 to von Neumann equation.
 
 To run the notebook just place it in any directory on your file
