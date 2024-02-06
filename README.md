@@ -2,6 +2,7 @@ Hi, I’m @alexkunold
 I’m interested in quantum algorithms.
 
 This is a Python 3 jupyter notebook containing a quantum algorithm
+in Qiskit
 that calculates the time evolution of de density matrix according
 to von Neumann equation.
 
