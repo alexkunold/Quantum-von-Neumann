@@ -1,3 +1,9 @@
+
+![main](https://github.com/alexkunold/Quantum-von-Neumann/assets/135926597/37aa3bc1-d556-4e43-8521-9b7cce544482)
+![sub1](https://github.com/alexkunold/Quantum-von-Neumann/assets/135926597/3f7fa89a-fb09-47d8-9a7d-fd78d3622d05)
+![sub2](https://github.com/alexkunold/Quantum-von-Neumann/assets/135926597/626ab83e-1b92-4188-9f38-9f7a2fe71647)
+![fig1](https://github.com/alexkunold/Quantum-von-Neumann/assets/135926597/fdb5f0bc-f358-4d02-8b08-a6c8952e0c3e)
+
 This is a Python 3 jupyter notebook containing a quantum algorithm
 in Qiskit
 that calculates the time evolution of de density matrix governed
