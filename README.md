@@ -4,7 +4,7 @@
 
 This is are Python 3 files of a quantum algorithm
 in Qiskit
-that calculates the time evolution of de density matrix governed
+that calculate the time evolution of de density matrix governed
 to von Neumann equation.
 
 ### Quantum circuit
